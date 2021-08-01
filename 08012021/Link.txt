@@ -9,3 +9,5 @@ https://www.cisco.com/content/dam/en_us/training-events/le31/le46/cln/marketing/
 Lab Setup Options
 -----------------
 1. Cisco Packet Tracer - https://www.netacad.com/courses/packet-tracer/introduction-packet-tracer (FREE!!)
+2. GNS3 - https://www.gns3.com/software
+3. Cisco DEVNET Sandbox - https://developer.cisco.com/site/sandbox/
