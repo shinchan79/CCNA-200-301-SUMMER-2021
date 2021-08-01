@@ -1,0 +1,11 @@
+200-301 Exam Topic
+------------------
+https://learningnetwork.cisco.com/s/ccna-exam-topics
+
+200-301 Complete List of Topics
+-------------------------------
+https://www.cisco.com/content/dam/en_us/training-events/le31/le46/cln/marketing/exam-topics/200-301-CCNA.pdf
+
+Lab Setup Options
+-----------------
+1. Cisco Packet Tracer - https://www.netacad.com/courses/packet-tracer/introduction-packet-tracer (FREE!!)
